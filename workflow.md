@@ -199,3 +199,22 @@ import VcanaLogo from '../public/vcana-logo.svg'
 ```javascript
 className="custom-class group absolute flex justify-center pt-0 w-1/4 sm:w-1/3 md:w-1/2 text-xl text-slate-100 bg-orange-500 border-r-2 border-stone-800 shadow-md cursor-pointer hover:text-gray-100 hover:bg-blue-500"
 ```
+
+User Story Example:
+Title: As a translator, I want to be able to upload translation files in multiple formats so that I can work on projects efficiently regardless of the file type.
+
+Acceptance Criteria:
+
+The system should allow users to upload files in .docx, .xlsx, .pdf, and .txt formats.
+The system should display a success message once the file is uploaded.
+The system should notify the user if the file format is unsupported.
+Files should be securely stored and accessible only to authorized users.
+Explanation:
+A user story is a brief, simple description of a feature from the perspective of an end user. It’s a tool in Agile development to communicate user needs to the development team. The story is usually framed as: "As a [user type], I want [an action] so that [benefit/goal]."
+
+User Role: In the example, the user is a "translator."
+Need: The translator needs to upload files in multiple formats.
+Goal/Benefit: The goal is to work efficiently regardless of file type.
+The acceptance criteria define the conditions that must be met for the story to be considered complete. These ensure that the development team knows exactly what to deliver.
+
+This approach ensures focus on user needs, making it easier to prioritize tasks and deliver value to the end users.
