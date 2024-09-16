@@ -218,3 +218,6 @@ Goal/Benefit: The goal is to work efficiently regardless of file type.
 The acceptance criteria define the conditions that must be met for the story to be considered complete. These ensure that the development team knows exactly what to deliver.
 
 This approach ensures focus on user needs, making it easier to prioritize tasks and deliver value to the end users.
+
+https://chatgpt.com/share/66e80473-89b4-8003-9d6e-1a9182de9c1d
+
