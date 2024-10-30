@@ -222,4 +222,4 @@ https://chatgpt.com/share/66e80473-89b4-8003-9d6e-1a9182de9c1d
 
 TODO:
 1. Translate to English
-2. Added new changes
+2. Added new values
